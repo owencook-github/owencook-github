@@ -2,7 +2,7 @@
 - 👀 I’m interested in working out how this works...
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on nothing in particular
-- 📫 How to reach me ...
+- 📫 How to reach me oc.github@pcug.org.au
 
 <!---
 owencook-github/owencook-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
